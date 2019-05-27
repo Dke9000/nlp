@@ -1,0 +1,5 @@
+Github did not allow uploading files over 100MB, because of that we have uploaded
+train-balanced-sarcasm.csv to google drive instead which can be found here:
+
+ttps://drive.google.com/open?id=1SHbaC8dqlrcEanrjqrrwKHYasi4OJXv7
+
